@@ -11,8 +11,9 @@ var config = {
   theme: "light",
   use3dTerrain: false, //set true for enabling 3D maps.
   auto: false,
-  title: "African Digital Access Initiative(ADAI)",
-  subtitle: "Promoting ICT education in schools through Mapping ",
+  title: "YouthMappers in Uganda)",
+  subtitle: "Vision:Vision: Cultivate a generation of young people to develop leadership ability and create resilient communities around the world. To empower youth to define and change their world by mapping it.  ",
+  subtitle: "Mission: YouthMappers is an international network of university-student-led chapters. We organize, collaborate, and implement mapping activities that respond to actual development needs around the globe – creating and using geospatial data and information that is made publicly available through open platforms. We share experiences and results while learning, leading, and making a difference in the world.  ",
   byline: "",
   footer:
     'Created by <a href="https://mapuganda.org" target="_blank">OpenstreetMap Uganda</a>.',
